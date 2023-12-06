@@ -109,4 +109,4 @@ for(let i = 0; i < locations.length; i++) {
     }
 }
 
-console.log(`Part 1 min distance: ${min}`);
+console.log(`Part 1: ${min}`);

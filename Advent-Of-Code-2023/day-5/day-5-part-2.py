@@ -28,4 +28,4 @@ for block in blocks:
             new.append((s, e))
     seeds = new
 
-print(min(seeds)[0])
+print("Part 2:" , min(seeds)[0])
